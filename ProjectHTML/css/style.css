@@ -1,0 +1,205 @@
+body{
+    margin: 0;
+    overflow-x: hidden;
+}
+
+.img{
+    text-align: center;
+}
+
+.heading{
+    text-align: center;
+    color: #28A959 ;
+    font-family: 'Dancing Script', cursive; 
+    font-size: 50px;
+}
+.heading1{
+    text-align: center;
+    color:#28A959 ;
+    font-family: 'Dosis', sans-serif;
+    font-size: 45px;  
+}
+.container1{
+    background-color: #ABECF7;
+    position: relative;
+    padding-top: 60px;
+}
+.banner1{
+    position: absolute;
+    display: flex;
+    width: 600px;
+    height: 360px;
+    top: 10px;
+    left: 870px;
+}
+.banner2{
+    position: absolute;
+    display: flex;
+    width: 500px;
+    height: 250px;
+    right: 100px;
+    top: 30px;
+    left: 67px;
+
+}
+.banner3{
+    position: absolute;
+    display: flex;
+    width: 700px;
+    height: 400px;
+    top: 100px;
+    right: -100px;
+    left: -55px;
+}
+
+
+
+.heading2{
+    text-align: center;
+    color:#28A959 ;
+    font-family: 'Dosis', sans-serif;
+    font-size: 25px;
+}
+.paragraph1{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.7;
+    font-size: 25px;
+}
+.line1{
+    text-align: center;
+}
+
+
+.container2{
+    text-align: center;
+}
+.heading3{
+    color: #28A959;
+    font-family: 'Dosis', sans-serif;
+    font-size: 25px;
+    position: relative;
+    top: -16px;
+    margin: 10px;
+
+}
+.image2{
+    top: 1480px;
+    left: 320px;
+    position: absolute ;
+}
+.header1{
+    color: #4BC8BE;
+    position: relative;
+    left: 45px;
+    top: -5px;
+    font-size: 25px;
+    line-height: 2;
+
+}
+.paragraph2{
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.7; 
+    position: relative;
+    top: -38px;
+    text-align: justify;
+    right: -567px;
+    font-size: 25px;
+}
+ 
+
+
+.container3{
+    text-align: center;
+}
+.header2{
+    color: #4BC8BE;
+    position: relative;
+    top: -1px;
+    right: 314px;
+    font-size: 18px;
+    font-size: 25px;
+    line-height: 2;
+}
+.image3{
+    top: 1790px;
+    left: 840px;
+    position: absolute;
+}
+.paragraph3{
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.7; 
+    position: relative;
+    top: -35px;
+    text-align: justify;
+    right: -330px;
+    font-size: 25px;
+}
+
+
+
+.container4{
+    text-align: center;
+}
+.header3{
+    color: #4BC8BE;
+    position: relative;
+    left: 570px;
+    top: -5px;
+    font-size: 25px;
+    text-align: justify;
+}
+.image4{
+    position: relative;
+    right: 265px;
+    top: -55px;
+}
+.paragraph4{
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.7; 
+    position: relative;
+    top: -258px;
+    text-align: justify;
+    right: -567px;
+    font-size: 25px;
+}
+.line2{
+    text-align: center;
+    top: -126px;
+    position: relative;
+}
+
+
+.container5{
+    text-align: center;
+}
+.heading4{
+    color: #28A959;
+    font-family: 'Dosis', sans-serif;
+    font-size: 25px;
+}
+.heading5{
+    color: #4BC8BE;
+    font-size: 28px;
+}
+.paragraph5{
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.7;  
+    font-size: 25px; 
+}
+.button1{
+    margin: 2%;
+}
+
+.container6{
+    text-align: center;
+    background-color: #58D6CD;
+}
+.heading6{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+.link1{
+    
+}
